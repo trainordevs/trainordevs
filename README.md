@@ -10,6 +10,12 @@
   <p><strong>TEBEX</strong></p>
   <p>https://trainordevs.tebex.io/</p>
   <hr />
+  <a href="https://github.com/trainordevs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trainordevs&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+  </a>
+  <a href="https://github.com/trainordevs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=trainordevs&show_icons=true&theme=tokyonight" />
+  </a>
 </div>
 
 <!--
