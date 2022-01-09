@@ -5,7 +5,7 @@
   <hr />
   <p><strong>My Current Adventure</strong></p>
   <p>Developer for Royalty Roleplay. Join now!</p>
-  <p><a href="https://servers.fivem.net/servers/detail/jvjezm">CFX Link</a> - <a href="https://discord.gg/3JRjwVVVdE">Discord</a></p>
+  <p><a href="https://servers.fivem.net/servers/detail/jvjezm">CFX Link</a> - <a href="https://discord.gg/royalty">Discord</a></p>
   <hr />
   <p><strong>BUY ME A COFFEE</strong></p>
   <p>https://www.buymeacoffee.com/trainordevs</p>
