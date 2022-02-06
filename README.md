@@ -1,11 +1,11 @@
 <div align=center>
   <h1>TrainorDevs</h1>
-  <p>Welcome to my Github! My name is Robert and I am a 22-year old United States Veteran. I focus in web-development (PHP, HTML5, CSS, JS), but also work in other languages. I like to create scripts for FiveM in my free time as more of a hobby.</p>
+  <p>Welcome to my Github! My name is Robert and I am a 23-year old United States Veteran. I focus in web-development (PHP, HTML5, CSS, JS), but also work in other languages. I like to create scripts for FiveM in my free time as more of a hobby.</p>
   <p>Please feel free to join my discord for releases, updates, support, and teasers!</p>
   <hr />
-  <p><strong>My Current Adventure</strong></p>
-  <p>Developer for Royalty Roleplay. Join now!</p>
-  <p><a href="https://servers.fivem.net/servers/detail/jvjezm">CFX Link</a> - <a href="https://discord.gg/royalty">Discord</a></p>
+  <p><strong>My Current Adventures</strong></p>
+  <p>Developer for Royalty Roleplay. <a href="https://servers.fivem.net/servers/detail/jvjezm">CFX Link</a> - <a href="https://discord.gg/royalty">Discord</a></p>
+  <p>CareTaker Bot. <a href="https://discord.gg/Mq4UrVQtZE">Discord</a></p>
   <hr />
   <p><strong>BUY ME A COFFEE</strong></p>
   <p>https://www.buymeacoffee.com/trainordevs</p>
