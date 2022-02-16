@@ -20,4 +20,5 @@
   <hr />
   <p><strong>My Free FiveM Resources</strong></p>
   <p><a href="https://github.com/trainordevs/td-policedesk">td-policedesk</a> for <a href="https://github.com/qbcore-framework">QBCore Framework</a></p>
+  <p><a href="https://github.com/trainordevs/linden_outlawalert">linden_outlawalerts</a> conversion for <a href="https://github.com/qbcore-framework">QBCore Framework</a></p>
 </div>
