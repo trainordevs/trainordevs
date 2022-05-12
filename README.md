@@ -4,9 +4,10 @@
   <p>Please feel free to join my discord for releases, updates, support, and teasers!</p>
   <hr />
   <p><strong>My Current Adventures</strong></p>
-  <p>Lead Developer for Royalty Roleplay. <a href="https://servers.fivem.net/servers/detail/jvjezm">CFX Link</a> - <a href="https://discord.gg/royalty">Discord</a></p>
-  <p>Lead Developer for Royalty Arena. <a href="https://discord.gg/royalty">Discord</a></p>
-  <p>Lead Developer for Royalty Rust. <a href="https://discord.gg/z3Av5Vw8Qd">Discord</a></p>
+  <p>Lead Developer for Royalty Servers.</p>
+  <p>(FIVEM) <a href="https://servers.fivem.net/servers/detail/jvjezm">CFX Link</a> - <a href="https://discord.gg/royalty">Discord</a></p>
+  <p>(FIVEM ARENA) <a href="https://discord.gg/royalty">Discord</a></p>
+  <p>(RUST) <a href="https://discord.gg/z3Av5Vw8Qd">Discord</a></p>
   <p>CareTaker Bot. <a href="https://discord.gg/Mq4UrVQtZE">Discord</a> - <a href="https://trainordevs.gitbook.io/caretaker/">Documentation</a></p>
   <hr />
   <p><strong>BUY ME A COFFEE</strong></p>
